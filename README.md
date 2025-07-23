@@ -8,7 +8,6 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Etiquetado y procesamiento de texto
 
 **2. Word embeddings**
-- CBOW y Skip-gram
 - Embeddings estáticos (Word2Vec, FastText, Glove)
 - Embeddings contextualizados (ELMO, BETO)
 - Clasificación de sentimientos
