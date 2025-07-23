@@ -6,7 +6,6 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Introducción al PLN
 - Expresiones regulares
 - Etiquetado y procesamiento de texto
-- Análisis de la estructura de una oración
 
 **2. Word embeddings**
 - CBOW y Skip-gram
