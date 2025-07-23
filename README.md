@@ -23,7 +23,8 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 **4. Modelos de lenguaje**
 - Mecanismos de atención
 - Transformers
-- BERT
+- Modelos BERT
+- Variantes y adaptaciones del modelo BERT
 
 
  ## Horario
