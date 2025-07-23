@@ -9,7 +9,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 
 **2. Word embeddings**
 - Embeddings estáticos (Word2Vec, FastText, Glove)
-- Embeddings contextualizados (ELMO, BETO)
+- Embeddings contextuales (ELMO, BETO)
 - Clasificación de sentimientos
 
 **3. Modelos secuenciales**
