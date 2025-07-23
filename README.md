@@ -8,9 +8,12 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Etiquetado y procesamiento de texto
 
 **2. Word embeddings**
-- Embeddings estáticos (Word2Vec, FastText, Glove)
-- Embeddings contextuales (ELMO, BETO)
-- Clasificación de sentimientos
+- Introducción a los word embeddings
+- Word2Vec
+- GloVe
+- FastText
+- Similitud coseno
+- La ley de Zipf
 
 **3. Modelos secuenciales**
 - Introducción a la arquitectura encoder – decoder
