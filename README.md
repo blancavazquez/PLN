@@ -16,8 +16,10 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - La ley de Zipf
 
 **3. Modelos secuenciales**
-- Introducción a la arquitectura encoder – decoder
-- Modelos secuenciales (Seq2Seq) usando RNN, LSTM y GRU.
+- Introducción a los modelos basados en recurrencia
+- LSTM
+- GRU
+- Arquitectura encoder – decoder
 - Aplicaciones de los modelos Seq2Seq (machine translation, text summarinzing, image captioning).
 
 **4. Modelos de lenguaje**
