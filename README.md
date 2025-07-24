@@ -19,7 +19,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - RNN
 - LSTM
 - GRU
-- Aplicaciones (machine translation, text summarinzing, image captioning).
+- Aplicaciones: análisis de sentimientos
 
 **4. Modelos de lenguaje**
 - Arquitectura encoder – decoder
@@ -27,6 +27,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Transformers
 - Modelos BERT
 - Variantes y adaptaciones del modelo BERT
+- Aplicaciones (machine translation, text summarinzing, image captioning).
 
 
  ## Horario
