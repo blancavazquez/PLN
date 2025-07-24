@@ -15,14 +15,14 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Similitud coseno
 - La ley de Zipf
 
-**3. Modelos secuenciales**
-- Introducción a los modelos basados en recurrencia
+**3. Modelos basados en recurrencias**
+- RNN
 - LSTM
 - GRU
-- Arquitectura encoder – decoder
-- Aplicaciones de los modelos Seq2Seq (machine translation, text summarinzing, image captioning).
+- Aplicaciones (machine translation, text summarinzing, image captioning).
 
 **4. Modelos de lenguaje**
+- Arquitectura encoder – decoder
 - Mecanismos de atención
 - Transformers
 - Modelos BERT
