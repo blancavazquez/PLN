@@ -19,7 +19,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - RNN
 - LSTM
 - GRU
-- Aplicaciones: análisis de sentimientos
+- Aplicaciones: análisis de sentimientos y generación de música
 
 **4. Modelos de lenguaje**
 - Arquitectura encoder – decoder
