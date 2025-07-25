@@ -25,10 +25,8 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Arquitectura encoder – decoder
 - Mecanismos de atención
 - Transformers
-- Modelos BERT
-- Variantes y adaptaciones del modelo BERT
+- Embeddings contextualizados: BERT
 - Aplicaciones (machine translation, text summarinzing, image captioning).
-
 
  ## Horario
 - Lunes 11:30 am a 13:00 pm
