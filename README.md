@@ -33,7 +33,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Miércoles 11:30 am a 13:00 pm
 
 ## Criterios de evaluación
-- Proyectofinal (50%)
+- Proyecto final (50%)
 - Tareas (40%)
 - Participación (10%)
 
