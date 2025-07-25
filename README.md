@@ -26,7 +26,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Mecanismos de atención
 - Transformers
 - Embeddings contextualizados: BERT
-- Large lenguage models
+- Large language models
 
  ## Horario
 - Lunes 11:30 am a 13:00 pm
