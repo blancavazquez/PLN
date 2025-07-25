@@ -1,5 +1,5 @@
 # Curso de procesamiento de lenguaje natural IIMAS-UNAM (Periodo 2026-I)
-Este repositorio contiene las diapositivas, libretas de trabajo y tareas del curso de "Procesamiento de lenguaje natural" impartido en el [Posgrado en Ciencia e Ingeniería de la Computación](https://www.pcic.unam.mx/) en la [Unidad Académica del IIMAS en el estado de Yucatán IIMAS](https://www.iimas.unam.mx/unidad-academica-del-iimas-en-yucatan/), [UNAM] (https://www.unam.mx/).
+Este repositorio contiene las diapositivas, libretas de trabajo y tareas del curso de "Procesamiento de lenguaje natural" impartido en el [Posgrado en Ciencia e Ingeniería de la Computación](https://www.pcic.unam.mx/) en la [Unidad Académica del IIMAS en el estado de Yucatán IIMAS](https://www.iimas.unam.mx/unidad-academica-del-iimas-en-yucatan/), [UNAM](https://www.unam.mx/).
 
 ## Temario:
 **1. Procesamiento de lenguaje natural**
