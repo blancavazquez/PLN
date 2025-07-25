@@ -26,7 +26,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 - Mecanismos de atención
 - Transformers
 - Embeddings contextualizados: BERT
-- Aplicaciones (machine translation, text summarinzing, image captioning).
+- Large lenguage models
 
  ## Horario
 - Lunes 11:30 am a 13:00 pm
@@ -44,5 +44,3 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 ## Ambiente de programación
 En este curso las herramientas de programación que se emplearán son las siguientes:
 - [Google Colab](https://colab.research.google.com/)
-- [AWS Educate](https://aws.amazon.com/es/education/awseducate/)
-- [Databricks](https://databricks.com/). Para usar esta herramienta debes crear tu cuenta en [Databricks Community edition](https://docs.databricks.com/en/getting-started/community-
