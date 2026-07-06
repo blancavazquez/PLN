@@ -35,7 +35,7 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 ## Criterios de evaluación
 - Tareas (40%)
 - Participación (10%)
-- - Proyecto final (50%)
+- Proyecto final (50%)
 
 ## Profesor
 **Blanca Vázquez**
